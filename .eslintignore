@@ -1,0 +1,4 @@
+**/*.test.jsx
+**/*.test.js
+**/*.test.tsx
+**/*.test.ts
